@@ -96,3 +96,7 @@ html, body {
 .texto-izq{
     text-align: left;
 }
+
+.margen{
+  margin: 10px;
+}

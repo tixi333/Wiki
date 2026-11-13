@@ -86,3 +86,13 @@ html, body {
 .barra{
   margin-top: 20px;
 }
+
+.boton-carta.disabled {
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  opacity: 1;
+}
+
+.texto-izq{
+    text-align: left;
+}

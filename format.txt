@@ -1,0 +1,1 @@
+html-beautify -s 2 -w 80 -r index.html 

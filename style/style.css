@@ -82,6 +82,12 @@ html, body {
   object-fit: cover;
 }
 
+.criatura-img {
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+}
+
 .navbar-embebida .nav-pills .nav-link:hover,
 .navbar-embebida .nav-pills .nav-link.active {
   background-color: #333035;

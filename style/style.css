@@ -59,6 +59,7 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   font-family: 'Encode Sans Semi Expanded', monospace;
+  background-color:#212529;
 }
 
 .navbar-embebida {
@@ -75,33 +76,19 @@ html, body {
   overflow-x: hidden;
 }
 
+.estilo-bioma {
+  height: 190px; 
+  object-fit: cover;
+}
+
 .navbar-embebida .nav-pills .nav-link:hover,
 .navbar-embebida .nav-pills .nav-link.active {
   background-color: #333035;
   color: #fff;
-}
-.pagina{
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 20px;
-  justify-content: center;
-  align-items: center;
-}
-
-.barra{
-  margin-top: 20px;
 }
 
 .boton-carta.disabled {
   background-color: #f8f9fa;
   border-color: #f8f9fa;
   opacity: 1;
-}
-
-.texto-izq{
-    text-align: left;
-}
-
-.margen{
-  margin: 10px;
 }

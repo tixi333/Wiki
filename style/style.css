@@ -77,25 +77,8 @@ html, body {
   overflow-x: hidden;
 }
 
-.estilo-bioma {
-  height: 190px; 
-  object-fit: cover;
-}
-
-.criatura-img {
-  width: 100%;
-  height: 190px;
-  object-fit: contain;
-}
-
 .navbar-embebida .nav-pills .nav-link:hover,
 .navbar-embebida .nav-pills .nav-link.active {
   background-color: #333035;
   color: #fff;
-}
-
-.boton-carta.disabled {
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
-  opacity: 1;
 }
